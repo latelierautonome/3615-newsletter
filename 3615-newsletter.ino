@@ -28,7 +28,7 @@
 Minitel minitel(7, 6);  // RX, TX
 
 ////////////////////////////////////////////////////////////////////////
-char TITRE[] = "L'ATELIER AUTONOME";
+char TITRE[] = "L'ATELIER AUTONOME";    // A MODIFIER //
 File myFile;
 char texte[81] = "";  // 2 lignes de 40 caractères + 1 caractère null
 int nbCaracteres = 0;
