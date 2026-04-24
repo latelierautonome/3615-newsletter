@@ -69,7 +69,7 @@ Installation :
 Numéros pins DIN connecteur mâle :
 
 <p align="center">
-  <img src="images/male.jpg">
+  <img src="images/male.png">
 </p>
 
 ---
@@ -87,13 +87,6 @@ DIN 3 (TX Minitel)
 &nbsp;&nbsp;&nbsp;&nbsp;R = 10 kΩ  
 &nbsp;&nbsp;&nbsp;&nbsp;│  
 &nbsp;&nbsp;&nbsp;&nbsp;+5V  
-
----
-
-## 🔋 Alimentation
-
-Le Minitel fournit du +8.5V sur DIN 5.
-
 
 
 ---
@@ -185,7 +178,7 @@ GNU GENERAL PUBLIC LICENSE v3
 ## 📸 Aperçu
 
 <p align="center">
-  <img src="images/minitel.jpg">
+  <img src="images/minitel.png">
 </p>
 
 
