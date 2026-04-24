@@ -20,6 +20,15 @@ Le système propose une interface interactive de type 3615 permettant la saisie,
 
 ---
 
+## 📸 Aperçu
+
+<p align="center">
+  <img src="images/minitel.png">
+</p>
+
+
+---
+
 ## 🧠 Principe de fonctionnement
 
 1. Le Minitel affiche une page d’accueil
@@ -175,14 +184,6 @@ GNU GENERAL PUBLIC LICENSE v3
 
 ---
 
-## 📸 Aperçu
-
-<p align="center">
-  <img src="images/minitel.png">
-</p>
-
-
----
 
 ## 🚀 Auteur
 
