@@ -111,13 +111,6 @@ DIN 3 (TX Minitel)
 | 5V          | VCC      |
 | GND         | GND      |
 
----
-
-## ⚙️ Configuration logicielle
-
-- Vitesse Minitel auto-détectée (`searchSpeed()`)
-- Mode écran : `smallMode()`
-- Buffer texte : 80 caractères (2 lignes)
 
 ---
 
