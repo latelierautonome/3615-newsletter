@@ -95,7 +95,7 @@ DIN 3 (TX Minitel)
 &nbsp;&nbsp;&nbsp;&nbsp;│  
 &nbsp;&nbsp;&nbsp;&nbsp;R = 10 kΩ  
 &nbsp;&nbsp;&nbsp;&nbsp;│  
-&nbsp;&nbsp;&nbsp;&nbsp;+5V  
+&nbsp;&nbsp;&nbsp;&nbsp;+5V Arduino 
 
 
 ---
